@@ -1,2 +1,6 @@
-# HYU_Data_Mining
-Management Data Mining
+# 경영데이터마이닝
+
+## 개요
+- 프로젝트 주제 : 구독 서비스 고객 이탈 예측
+- 프로젝트 기간 : 24.10.27 ~ 
+<br>
